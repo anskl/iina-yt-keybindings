@@ -19,6 +19,6 @@ Simulate the youtube player keybindngs on [IINA player](https://github.com/iina/
 | `CMD` + `→` / `←` | next / previous media                                               |
 
 ## How to install
-- Download `.conf` file
-- Open IINA`➝`Preferences`➝`Key Bindings`➝`Import an existing config file`
+- Download `iina-yt-keybindings.conf` file
+- Open IINA `➝` Preferences `➝` Key Bindings `➝` Import an existing config file
 
